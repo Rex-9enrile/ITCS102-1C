@@ -1,0 +1,1 @@
+print("Magandang Hapon \n\tBSIT-1C")
